@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Introduction and Background}{3}{}%
+\contentsline {section}{\numberline {2}Overview of Paper and Dataset}{3}{}%
+\contentsline {section}{\numberline {3}Description of Methods}{3}{}%
+\contentsline {section}{\numberline {4}Implementation}{3}{}%
+\contentsline {section}{\numberline {5}Results}{3}{}%
+\contentsline {section}{\numberline {6}Conclusion}{3}{}%
